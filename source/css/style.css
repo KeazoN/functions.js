@@ -5,3 +5,21 @@ body{
 .dark-mode{
 	background-color: #111 !important;
 }
+
+button{
+	margin-bottom: 10rem;
+}
+
+nav{
+	width: 100%;
+}
+
+nav ul{
+	display: flex;
+	align-items: center;
+}
+
+nav ul li{
+	list-style-type: none;
+	margin-right: 20px;
+}
