@@ -1,10 +1,10 @@
-## Hello My Friend
+# Hello My Friend
 
 I made a few commands that people can define and use the function file in their file. I hope it will be useful. It will be updated daily.
 
 ---
 
-##Infrastructure
+## Infrastructure
 
 This infrastructure is prepared with JavaScript. You can use these functions with basic JavaScript knowledge.
 
