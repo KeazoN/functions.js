@@ -1,0 +1,19 @@
+{
+  "name": "function",
+  "version": "0.0.1",
+  "description": "I made a few commands that people can define and use the function file in their file. I hope it will be useful. It will be updated daily.",
+  "main": "function.js",
+  "scripts": {
+    "test": "lite-server"
+  },
+  "author": "Ugur Mercan",
+  "license": "MIT",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.0",
+    "postcss": "^8.3.11",
+    "tailwindcss": "^2.2.19"
+  }
+}
