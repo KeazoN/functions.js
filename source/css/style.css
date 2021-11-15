@@ -1,13 +1,10 @@
 body{
 	background-color: #fff;
+	font-family: sans-serif;
 }
 
 .dark-mode{
 	background-color: #111 !important;
-}
-
-button{
-	margin-bottom: 10rem;
 }
 
 nav{
@@ -32,4 +29,16 @@ nav ul li span{
 	width: 20px;
 	height: 2px;
 	background-color: #111;
+}
+
+.time{
+	display: flex;
+}
+
+.time p {
+	margin-left: 20px;
+}
+
+#bold{
+	font-weight: bold;
 }

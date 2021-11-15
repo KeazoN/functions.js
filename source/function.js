@@ -23,3 +23,12 @@ function navSticky() {
 function openToNav() {
     documnet.body.classList.toggle("openNav");
 }
+
+const nowDate = new Date();
+
+document.getElementById("writeSecond").innerHTML = nowDate.getSeconds();
+document.getElementById("writeMinute").innerHTML = nowDate.getMinutes();
+document.getElementById("writeHours").innerHTML = nowDate.getHours();
+document.getElementById("writeMonth").innerHTML = nowDate.getMonth();
+document.getElementById("writeDay").innerHTML = nowDate.getDay();
+document.getElementById("writeYear").innerHTML = nowDate.getFullYear();

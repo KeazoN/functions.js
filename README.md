@@ -49,13 +49,13 @@ Include in your page with import or script and access all commands, WoW
 
  * Function:
     * darkAndLight() = It is added with onClick. The result of styling with CSS on the page will be dark theme and light theme. You can also use CSS with ".dark-mode".
-<<<<<<< HEAD
     * openToNav() = It is added with onClick. It is used for hamburger-style menus on responsive sites. You can also use CSS with ".openNav".
 
  * Ids
  	* stickNav = The ID of the nav tag. Using this ID the navbar will break the barrier above and stay above with "top 0".
-=======
- * Ids:
-    * stickyNav = The ID of the nav tag. Using this ID the navbar will break the barrier above and stay above with "top 0".
-
->>>>>>> 3581ec5be8c68ee15817bc5ff52914734743498a
+ 	* writeSecond = You can call the currently found second by giving an ID value to a tag you want.
+ 	* writeMinute = You can call the currently found minute by giving an ID value to a tag you want.
+ 	* writeHour = You can call the currently found hour by giving an ID value to a tag you want.
+ 	* writeDay = You can call the currently found day by giving an ID value to a tag you want.
+ 	* writeMonth = You can call the currently found month by giving an ID value to a tag you want.
+ 	* writeYear = You can call the currently found year by giving an ID value to a tag you want.
