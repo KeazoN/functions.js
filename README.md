@@ -23,7 +23,7 @@ Include in your page with import or script and access all commands, WoW
 
 ---
 
-##Sample
+## Sample
 
 ```js
 	function darkAndLight(){
