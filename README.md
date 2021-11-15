@@ -49,7 +49,13 @@ Include in your page with import or script and access all commands, WoW
 
  * Function:
     * darkAndLight() = It is added with onClick. The result of styling with CSS on the page will be dark theme and light theme. You can also use CSS with ".dark-mode".
+<<<<<<< HEAD
     * openToNav() = It is added with onClick. It is used for hamburger-style menus on responsive sites. You can also use CSS with ".openNav".
 
  * Ids
  	* stickNav = The ID of the nav tag. Using this ID the navbar will break the barrier above and stay above with "top 0".
+=======
+ * Ids:
+    * stickyNav = The ID of the nav tag. Using this ID the navbar will break the barrier above and stay above with "top 0".
+
+>>>>>>> 3581ec5be8c68ee15817bc5ff52914734743498a
