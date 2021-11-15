@@ -23,3 +23,13 @@ nav ul li{
 	list-style-type: none;
 	margin-right: 20px;
 }
+
+nav ul li span{
+	display: flex;
+	flex-direction: column;
+	margin-bottom: 5px;
+	margin-top: 5px;
+	width: 20px;
+	height: 2px;
+	background-color: #111;
+}

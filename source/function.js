@@ -19,3 +19,7 @@ function navSticky() {
   	navbar.style.position = 'relative';
   }
 }
+
+function openToNav() {
+    documnet.body.classList.toggle("openNav");
+}
