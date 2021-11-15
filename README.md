@@ -49,6 +49,9 @@ Include in your page with import or script and access all commands, WoW
 
  * Function:
     * darkAndLight() = It is added with onClick. The result of styling with CSS on the page will be dark theme and light theme. You can also use CSS with ".dark-mode".
+<<<<<<< HEAD
 
  * Ids
  	* stickNav = The ID of the nav tag. Using this ID the navbar will break the barrier above and stay above with "top 0".
+=======
+>>>>>>> 0ff572de29e8c67b038b3eb6e507f07202898571
