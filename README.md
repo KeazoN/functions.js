@@ -4,7 +4,7 @@ I made a few commands that people can define and use the function file in their 
 
 ---
 
-## Infrastructure
+# Infrastructure
 
 This infrastructure is prepared with JavaScript. You can use these functions with basic JavaScript knowledge.
 
@@ -13,11 +13,11 @@ This infrastructure is prepared with JavaScript. You can use these functions wit
 
 ## How To Use?
 
-### Install function.js
+### 1. Install function.js
 
 Download the function.js file, put it in the source file in your project.
 
-### Include in the page
+### 2. Include in the page
 
 Include in your page with import or script and access all commands, WoW
 
