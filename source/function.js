@@ -35,5 +35,5 @@ document.getElementById("writeMonth").innerHTML = nowDate.getMonth();
 document.getElementById("writeDay").innerHTML = nowDate.getDay();
 document.getElementById("writeYear").innerHTML = nowDate.getFullYear();
 /*
-	If one of these variables sends a request to me, it prints getX.
+	If one of these variables sends a request to me, it prints get.
 */
