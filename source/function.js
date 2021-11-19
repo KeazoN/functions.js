@@ -19,7 +19,7 @@ function navSticky() { //We create a function.
   	navbar.style.position = 'relative';
   }
 }
-/*
+/* 
 	If this function is used and the scroll comes under the sticky, 
 	we say make the position style of my navbar variable sticky and give top 0. 
 	If not, keep it relative.
