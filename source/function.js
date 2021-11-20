@@ -26,7 +26,7 @@ function navSticky() { //We create a function.
 */
 
 const nowDate = new Date();
-//We assigned the date to a variable.
+//We assigned the date to a variable. New Date
 
 document.getElementById("writeSecond").innerHTML = nowDate.getSeconds();
 document.getElementById("writeMinute").innerHTML = nowDate.getMinutes();
