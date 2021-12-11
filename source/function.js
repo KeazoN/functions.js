@@ -10,7 +10,7 @@ window.onscroll = function() {navSticky()};
 /*We call create function when scroll is active on our page.*/
 let navbar = document.getElementById("stickNav");
 let sticky = navbar.offsetTop;
-/*We define our variables.*/
+/* We define our variables. */
 function navSticky() { //We create a function.
   if (window.pageYOffset >= sticky) {
   	navbar.style.position = 'sticky';
